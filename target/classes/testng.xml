@@ -1,0 +1,7 @@
+<suite name="Orange Hrm Live application test suite">
+	<test name="Orange Hrm Live test">
+		<classes>
+			<class name="com.orangehrm.qa.testcases.LoginPageTest" />
+		</classes>
+	</test>
+</suite>

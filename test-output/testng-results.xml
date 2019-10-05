@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7590" started-at="2019-09-21T03:40:48Z" finished-at="2019-09-21T03:40:56Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7590" started-at="2019-09-21T03:40:48Z" finished-at="2019-09-21T03:40:56Z">
+      <class name="com.orangehrm.qa.testcases.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.orangehrm.qa.testcases.LoginPageTest@27efef64]" name="setUp" is-config="true" duration-ms="5255" started-at="2019-09-21T03:40:43Z" finished-at="2019-09-21T03:40:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="orgHrmLoginPageTitleTest()[pri:2, instance:com.orangehrm.qa.testcases.LoginPageTest@27efef64]" name="orgHrmLoginPageTitleTest" duration-ms="7042" started-at="2019-09-21T03:40:48Z" finished-at="2019-09-21T03:40:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orgHrmLoginPageTitleTest -->
+        <test-method status="PASS" signature="orgHrmLoginTest()[pri:3, instance:com.orangehrm.qa.testcases.LoginPageTest@27efef64]" name="orgHrmLoginTest" duration-ms="532" started-at="2019-09-21T03:40:55Z" finished-at="2019-09-21T03:40:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orgHrmLoginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.orangehrm.qa.testcases.LoginPageTest@27efef64]" name="tearDown" is-config="true" duration-ms="1031" started-at="2019-09-21T03:40:56Z" finished-at="2019-09-21T03:40:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.orangehrm.qa.testcases.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
